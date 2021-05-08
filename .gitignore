@@ -1,0 +1,9 @@
+/.idea/
+/metadata.*/
+/script.*/
+/service.*/
+/packages/
+/plugin.*/
+/repository.*/
+/temp/
+*.pyo
